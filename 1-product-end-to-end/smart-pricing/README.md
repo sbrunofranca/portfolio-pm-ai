@@ -46,6 +46,7 @@ smart-pricing/
 ├── requirements.txt
 ├── setup.sh
 └── README.md
+
 ---
 
 ## 💡 Como Usar o Código
