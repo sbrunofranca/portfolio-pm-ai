@@ -1,0 +1,6 @@
+#!/Users/bruno/portfolio-pm-ai/1-product-end-to-end/smart-pricing/venv/bin/python3
+import sys
+from json5.tool import main
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(main())
